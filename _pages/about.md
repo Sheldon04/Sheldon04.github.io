@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Senmao Tian's Home"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
