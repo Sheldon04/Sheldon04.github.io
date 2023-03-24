@@ -38,7 +38,7 @@ Publications
 
 * **[A Comprehensive Comparison of Projections in Omnidirectional Super-Resolution](#)**
 	* Huicheng Pi, **Senmao Tian**, Ming Lu, Jiaming Liu, Yandong Guo, Shunli Zhang
-	* IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2022
+	* IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2023
 	* \[[Paper](#)\]  \[[Code](#)\]
 
 * **[Blind Image Deblurring Based on Dual Attention Network and 2D Blur Kernel Estimation](#)**
