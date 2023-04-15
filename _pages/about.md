@@ -44,7 +44,7 @@ Publications
 * **[Blind Image Deblurring Based on Dual Attention Network and 2D Blur Kernel Estimation](#)**
 	* **Senmao Tian**, Shunli Zhang, Beibei Lin
 	* IEEE International Conference on Image Processing  (**ICIP**), 2021
-	* \[[Paper]([#](https://ieeexplore.ieee.org/document/9506342/))\]  \[[Code](#)\]
+	* \[[Paper](https://ieeexplore.ieee.org/document/9506342)\]  \[[Code](#)\]
 
 
 
