@@ -34,17 +34,17 @@ Publications
 * **[CABM: Content-Aware Bit Mapping for Single Image Super-Resolution Network with Large Input](#)**
 	* **Senmao Tian**, Ming Lu, Jiaming Liu, Yandong Guo, Yurong Chen, Shunli Zhang
 	* IEEE / CVF Computer Vision and Pattern Recognition Conference (**CVPR**), 2023
-	* \[[Paper](#)\]  \[[Code](#)\]
+	* \[[Paper](https://arxiv.org/abs/2304.06454)\]  \[[Code](#)\]
 
 * **[A Comprehensive Comparison of Projections in Omnidirectional Super-Resolution](#)**
 	* Huicheng Pi, **Senmao Tian**, Ming Lu, Jiaming Liu, Yandong Guo, Shunli Zhang
 	* IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2023
-	* \[[Paper](#)\]  \[[Code](#)\]
+	* \[[Paper](https://arxiv.org/abs/2304.06497)\]  \[[Code](#)\]
 
 * **[Blind Image Deblurring Based on Dual Attention Network and 2D Blur Kernel Estimation](#)**
 	* **Senmao Tian**, Shunli Zhang, Beibei Lin
 	* IEEE International Conference on Image Processing  (**ICIP**), 2021
-	* \[[Paper](#)\]  \[[Code](#)\]
+	* \[[Paper]([#](https://ieeexplore.ieee.org/document/9506342/))\]  \[[Code](#)\]
 
 
 
