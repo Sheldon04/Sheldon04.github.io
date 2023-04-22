@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-I am currently an undergraduate student at [Beijing Jiaotong University](https://www.bjtu.edu.cn/), supervised by Prof. [Shunli Zhang](http://faculty.bjtu.edu.cn/rjxy/8947.html). 
+I am currently an undergraduate student at [Beijing Jiaotong University](https://www.bjtu.edu.cn/), supervised by Prof. [Shunli Zhang] (http://faculty.bjtu.edu.cn/rjxy/8947.html) and and [Ming Lu](https://lu-m13.github.io/). 
 
 My research focuses on Computer Vision, espically interested in low-level visions.
 
@@ -18,14 +18,14 @@ My research focuses on Computer Vision, espically interested in low-level vision
 Education
 ======
 
-* **Beijing Jiaotong University (Sep. 2019 - Jun 2023)**
+* **Beijing Jiaotong University (Sep.2019 - Jun.2023)**
 	* B.E., Software Engineering
 
 Internship
 ======
 
 * **OPPO Research Institute**
-	* Neural network quantizatoin
+	* Neural Network Quantizatoin
 	* Learning-based Visual Synthesis
 
 Publications
@@ -37,7 +37,7 @@ Publications
 	* \[[Paper](https://arxiv.org/abs/2304.06454)\]  \[[Code](#)\]
 
 * **[A Comprehensive Comparison of Projections in Omnidirectional Super-Resolution](#)**
-	* Huicheng Pi, **Senmao Tian**, Ming Lu, Jiaming Liu, Yandong Guo, Shunli Zhang
+	* Huicheng Pi^, **Senmao Tian^**, Ming Lu, Jiaming Liu, Yandong Guo, Shunli Zhang
 	* IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2023
 	* \[[Paper](https://arxiv.org/abs/2304.06497)\]  \[[Code](#)\]
 
