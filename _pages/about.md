@@ -41,17 +41,17 @@ Publications
 	* IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2023
 	* \[[Paper](https://arxiv.org/abs/2304.06497)\]  \[[Code](#)\]
 
+* **[HQRetouch: Learning Professional Face Retouching via Masked Feature Fusion and Semantic-Aware Modulation](#)**
+	* Gangyi Hong, Fangshi Wang, **Senmao Tian**, Ming Lu, Jiaming Liu, Shunli Zhang
+	*  IEEE International Conference on Image Processing (**ICIP**), 2023
+	* \[[Paper](#)\]
+
 * **[Blind Image Deblurring Based on Dual Attention Network and 2D Blur Kernel Estimation](#)**
 	* **Senmao Tian**, Shunli Zhang, Beibei Lin
 	* IEEE International Conference on Image Processing  (**ICIP**), 2021
 	* \[[Paper](https://ieeexplore.ieee.org/document/9506342)\]  \[[Code](#)\]
 
 
-
-<!-- * **[HQRetouch: Learning Professional Face Retouching via Masked Feature Fusion and Semantic-Aware Modulation](#)**
-	* Gangyi Hong, Fangshi Wang, **Senmao Tian**, Ming Lu, Jiaming Liu, Shunli Zhang
-	*  IEEE International Conference on Image Processing (**ICIP**), 2023
-	* \[[Paper](#)\]  -->
 	
 Others
 ======
