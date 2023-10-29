@@ -55,5 +55,6 @@ Publications
 	
 Others
 ======
-* **Reviewer at TCSVT**
+* **Journal Reviewer at TCSVT**
+* **Conference Reviewer at CVPR**
 
