@@ -32,7 +32,7 @@ Publications
 ======
 * **[Adaptive Quantization With Mixed-precision Based on Low-cost Proxy](#)**
 	* Junzhe Chen, Qiao Yang, **Senmao Tian**, Shunli Zhang
-	* IEEE / CVF Computer Vision and Pattern Recognition Conference (**CVPR**), 2023
+	* IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2024
 	* \[[Paper](#)\]  \[[Code](#)\]
  * 
 * **[CABM: Content-Aware Bit Mapping for Single Image Super-Resolution Network with Large Input](#)**
