@@ -10,9 +10,9 @@ redirect_from:
 
 About me
 ======
-I am currently an undergraduate student at [Beijing Jiaotong University](https://www.bjtu.edu.cn/), supervised by Prof. [Shunli Zhang](http://faculty.bjtu.edu.cn/rjxy/8947.html) and and [Ming Lu](https://lu-m13.github.io/). 
+I am currently an undergraduate student at [Beijing Jiaotong University](https://www.bjtu.edu.cn/), supervised by Prof. [Shunli Zhang](http://faculty.bjtu.edu.cn/rjxy/8947.html). 
 
-My research focuses on Computer Vision, espically interested in low-level visions.
+My research focuses on Computer Vision and Efficient Networks, especially interested in quantization and pruning.
 
 
 Education
@@ -25,7 +25,7 @@ Internship
 ======
 
 * **OPPO Research Institute**
-	* Neural Network Quantizatoin
+	* Neural Network Quantization
 	* Learning-based Visual Synthesis
 
 Publications
