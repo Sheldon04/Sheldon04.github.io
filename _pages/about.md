@@ -12,18 +12,19 @@ About me
 ======
 I am currently an undergraduate student at [Beijing Jiaotong University](https://www.bjtu.edu.cn/), supervised by Prof. [Shunli Zhang](http://faculty.bjtu.edu.cn/rjxy/8947.html). 
 
-My research focuses on Computer Vision and Efficient Networks, especially interested in quantization and pruning.
+My research focuses on Computer Vision and Efficient Networks, especially interested in quantization and pruning. Recently, I got into AI for Science.
 
 
 Education
 ======
 
-* **Beijing Jiaotong University (Sep.2019 - Jun.2023)**
-	* B.E., Software Engineering
+* **Beijing Jiaotong University (Sep.2019 - Jun.2026)**
+	* B.E. & M.S., School of Software Engineering
 
 Internship
 ======
-
+* **ByteDance**
+	* Multi-modal Large Language Models
 * **OPPO Research Institute**
 	* Neural Network Quantization
 	* Learning-based Visual Synthesis
@@ -59,6 +60,6 @@ Publications
 	
 Others
 ======
-* **Journal Reviewer at TCSVT**
-* **Conference Reviewer at CVPR'24**
+* Journal Reviewer at **TCSVT**,  **TIP**
+* Conference Reviewer at **CVPR**, **ACM MM**, **NeurIPS**
 
