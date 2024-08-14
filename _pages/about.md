@@ -61,5 +61,5 @@ Publications
 Others
 ======
 * Journal Reviewer at **TCSVT**,  **TIP**
-* Conference Reviewer at **CVPR**, **ACM MM**, **NeurIPS**
+* Conference Reviewer at **CVPR**, **ACM MM**, **NeurIPS**, **AAAI**
 
