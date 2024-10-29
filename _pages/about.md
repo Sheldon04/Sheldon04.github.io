@@ -23,8 +23,9 @@ Education
 
 Internship
 ======
+
 * **Nihewan Research Center**
-  	* Site Excavation and Data Analysis
+	* Site Excavation and Data Analysis
 * **ByteDance**
 	* Multi-modal Large Language Models
 * **OPPO Research Institute**
