@@ -54,6 +54,11 @@ Selected Publications
 	* IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2024
 	* \[[Paper](https://arxiv.org/abs/2402.17706)\]
 
+* **[A Comprehensive Comparison of Projections in Omnidirectional Super-Resolution](#)**
+	* Huicheng Pi, **Senmao Tian**, Ming Lu, Jiaming Liu, Yandong Guo, Shunli Zhang
+	* IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2023
+	* \[[Paper](https://arxiv.org/abs/2304.06497)\]  \[[Code](#)\]
+
 * **[HQRetouch: Learning Professional Face Retouching via Masked Feature Fusion and Semantic-Aware Modulation](#)**
 	* Gangyi Hong, Fangshi Wang, **Senmao Tian**, Ming Lu, Jiaming Liu, Shunli Zhang
 	*  IEEE International Conference on Image Processing (**ICIP**), 2023
