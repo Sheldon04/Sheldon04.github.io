@@ -45,7 +45,7 @@ Selected Publications
 	* \[[Paper](https://arxiv.org/abs/2405.13859)\]  \[[Code](#)\]
 
 * **[FAST: Facial Avatar Animation via Spatial-Temporal Aggregation](#)**
-	* Junzhe Chen, Qiao Yang, **Senmao Tian**, Shunli Zhang
+	* Gangyi Hong, Ming Lu, **Senmao Tian**, Xiangyi Chen, Hui Zhang
 	* IEEE International Conference on Multimedia & Expo (**ICME**), 2025
 	* \[[Paper]()\]
 
