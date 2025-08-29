@@ -10,9 +10,9 @@ redirect_from:
 
 About me
 ======
-I am currently an undergraduate student at [Beijing Jiaotong University](https://www.bjtu.edu.cn/), supervised by Prof. [Shunli Zhang](http://faculty.bjtu.edu.cn/rjxy/8947.html). 
+I am currently a graduate student at [Beijing Jiaotong University](https://www.bjtu.edu.cn/), supervised by Prof. [Shunli Zhang](http://faculty.bjtu.edu.cn/rjxy/8947.html). In the past, my research has been relatively broad in scope.
 
-My research focuses on Computer Vision and Efficient Networks, especially interested in quantization and pruning. Recently, I got into AI for Science.
+My long-term goal is to develop **creative AI tools to tackle challenging problems in the life sciences**. I am also very interested in the interdisciplinary applications of statistical machine learning and AI across different fields.
 
 
 Education
@@ -32,22 +32,27 @@ Internship
 	* Neural Network Quantization
 	* Learning-based Visual Synthesis
 
-Publications
+Selected Publications
 ======
-* **[Adaptive Quantization With Mixed-precision Based on Low-cost Proxy](#)**
-	* Junzhe Chen, Qiao Yang, **Senmao Tian**, Shunli Zhang
-	* IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2024
-	* \[[Paper](https://arxiv.org/abs/2402.17706)\]
-
 * **[CABM: Content-Aware Bit Mapping for Single Image Super-Resolution Network with Large Input](#)**
 	* **Senmao Tian**, Ming Lu, Jiaming Liu, Yandong Guo, Yurong Chen, Shunli Zhang
 	* IEEE / CVF Computer Vision and Pattern Recognition Conference (**CVPR**), 2023
 	* \[[Paper](https://arxiv.org/abs/2304.06454)\]  \[[Code](https://github.com/Sheldon04/CABM-pytorch)\]
 
-* **[A Comprehensive Comparison of Projections in Omnidirectional Super-Resolution](#)**
-	* Huicheng Pi^, **Senmao Tian^**, Ming Lu, Jiaming Liu, Yandong Guo, Shunli Zhang
-	* IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2023
-	* \[[Paper](https://arxiv.org/abs/2304.06497)\]  \[[Code](#)\]
+* **[QGait: Toward Accurate Quantization for Gait Recognition](#)**
+	* **Senmao Tian**, Haoyu Gao, Gangyi Hong, Shuyun Wang, Jingjie Wang, Xin Yu, Shunli Zhang
+	* IEEE International Joint Conference on Biometrics (**IJCB**), 2025
+	* \[[Paper](https://arxiv.org/abs/2405.13859)\]  \[[Code](#)\]
+
+* **[FAST: Facial Avatar Animation via Spatial-Temporal Aggregation](#)**
+	* Junzhe Chen, Qiao Yang, **Senmao Tian**, Shunli Zhang
+	* IEEE International Conference on Multimedia & Expo (**ICME**), 2025
+	* \[[Paper]()\]
+
+* **[Adaptive Quantization With Mixed-precision Based on Low-cost Proxy](#)**
+	* Junzhe Chen, Qiao Yang, **Senmao Tian**, Shunli Zhang
+	* IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2024
+	* \[[Paper](https://arxiv.org/abs/2402.17706)\]
 
 * **[HQRetouch: Learning Professional Face Retouching via Masked Feature Fusion and Semantic-Aware Modulation](#)**
 	* Gangyi Hong, Fangshi Wang, **Senmao Tian**, Ming Lu, Jiaming Liu, Shunli Zhang
@@ -60,9 +65,8 @@ Publications
 	* \[[Paper](https://ieeexplore.ieee.org/document/9506342)\]  \[[Code](https://github.com/Sheldon04/DADIP-pytorch)\]
 
 
-	
 Others
 ======
 * Journal Reviewer at **TCSVT**, **TIP**, **TMM**
-* Conference Reviewer at **CVPR**, **ACM MM**, **NeurIPS**, **AAAI**
+* Conference Reviewer at **CVPR**, **ICCV**, **NeurIPS**, **ICLR**, **AAAI**, **ACM MM**
 
