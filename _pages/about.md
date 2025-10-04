@@ -41,7 +41,7 @@ Selected Publications
 
 * **[QGait: Toward Accurate Quantization for Gait Recognition](#)**
 	* **Senmao Tian**, Haoyu Gao, Gangyi Hong, Shuyun Wang, Jingjie Wang, Xin Yu, Shunli Zhang
-	* IEEE International Joint Conference on Biometrics (**IJCB**), 2025
+	* IEEE International Joint Conference on Biometrics (**IJCB**, Oral), 2025
 	* \[[Paper](https://arxiv.org/abs/2405.13859)\]  \[[Code](#)\]
 
 * **[FAST: Facial Avatar Animation via Spatial-Temporal Aggregation](#)**
