@@ -34,6 +34,12 @@ Internship
 
 Selected Publications
 ======
+* **[Sampling Control for Imbalanced Calibration in Semi-Supervised Learning](#)**
+	* **Senmao Tian**, Xiang Wei, Shunli Zhang
+	* The 40th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2026
+	* \[[Paper](#)\]  \[[Code](https://github.com/Sheldon04)\]
+
+
 * **[CABM: Content-Aware Bit Mapping for Single Image Super-Resolution Network with Large Input](#)**
 	* **Senmao Tian**, Ming Lu, Jiaming Liu, Yandong Guo, Yurong Chen, Shunli Zhang
 	* IEEE / CVF Computer Vision and Pattern Recognition Conference (**CVPR**), 2023
