@@ -37,7 +37,7 @@ Selected Publications
 * **[Sampling Control for Imbalanced Calibration in Semi-Supervised Learning](#)**
 	* **Senmao Tian**, Xiang Wei, Shunli Zhang
 	* The 40th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2026
-	* \[[Paper](#)\]  \[[Code](https://github.com/Sheldon04)\]
+	* \[[Paper](https://arxiv.org/abs/2511.18773)\]  \[[Code](https://github.com/Sheldon04/SC-SSL)\]
 
 
 * **[CABM: Content-Aware Bit Mapping for Single Image Super-Resolution Network with Large Input](#)**
@@ -48,12 +48,12 @@ Selected Publications
 * **[QGait: Toward Accurate Quantization for Gait Recognition](#)**
 	* **Senmao Tian**, Haoyu Gao, Gangyi Hong, Shuyun Wang, Jingjie Wang, Xin Yu, Shunli Zhang
 	* IEEE International Joint Conference on Biometrics (**IJCB**, Oral), 2025
-	* \[[Paper](https://arxiv.org/abs/2405.13859)\]  \[[Code](#)\]
+	* \[[Paper](https://arxiv.org/abs/2405.13859)\]  \[[Code](https://github.com/Sheldon04/QGait)\]
 
 * **[FAST: Facial Avatar Animation via Spatial-Temporal Aggregation](#)**
 	* Gangyi Hong, Ming Lu, **Senmao Tian**, Xiangyi Chen, Hui Zhang
 	* IEEE International Conference on Multimedia & Expo (**ICME**), 2025
-	* \[[Paper]()\]
+	* \[[Paper](https://www.computer.org/csdl/proceedings-article/icme/2025/11209474/2beBDW0BbkA)\]
 
 * **[Adaptive Quantization With Mixed-precision Based on Low-cost Proxy](#)**
 	* Junzhe Chen, Qiao Yang, **Senmao Tian**, Shunli Zhang
