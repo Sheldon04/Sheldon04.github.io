@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Senmao Tian's Home"
+title                    : "Senmao's Home"
 title_separator          : "-"
 name                     : &name "Senmao Tian"
-description              : &description "Student in Beijing Jiaotong University"
+description              : &description "Student"
 url                      : "https://Sheldon04.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Sheldon04/Sheldon04.github.io"
@@ -86,9 +86,9 @@ author:
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.sg/citations?hl=zh-CN&user=8SMb1wcAAAAJ"
+  googlescholar    : 
   email            :
-  researchgate     : "https://www.researchgate.net/scientific-contributions/Senmao-Tian-2201368006"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
