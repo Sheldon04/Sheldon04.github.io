@@ -26,55 +26,6 @@ Internship
 
 * **Nihewan Research Center**
 	* Site Excavation and Data Analysis
-* **ByteDance**
-	* Multi-modal Large Language Models
-* **OPPO Research Institute**
-	* Neural Network Quantization
-	* Learning-based Visual Synthesis
-
-Selected Publications
-======
-* **[Sampling Control for Imbalanced Calibration in Semi-Supervised Learning](#)**
-	* **Senmao Tian**, Xiang Wei, Shunli Zhang
-	* The 40th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2026
-	* \[[Paper](https://arxiv.org/abs/2511.18773)\]  \[[Code](https://github.com/Sheldon04/SC-SSL)\]
-
-
-* **[CABM: Content-Aware Bit Mapping for Single Image Super-Resolution Network with Large Input](#)**
-	* **Senmao Tian**, Ming Lu, Jiaming Liu, Yandong Guo, Yurong Chen, Shunli Zhang
-	* IEEE / CVF Computer Vision and Pattern Recognition Conference (**CVPR**), 2023
-	* \[[Paper](https://arxiv.org/abs/2304.06454)\]  \[[Code](https://github.com/Sheldon04/CABM-pytorch)\]
-
-* **[QGait: Toward Accurate Quantization for Gait Recognition](#)**
-	* **Senmao Tian**, Haoyu Gao, Gangyi Hong, Shuyun Wang, Jingjie Wang, Xin Yu, Shunli Zhang
-	* IEEE International Joint Conference on Biometrics (**IJCB**, Oral), 2025
-	* \[[Paper](https://arxiv.org/abs/2405.13859)\]  \[[Code](https://github.com/Sheldon04/QGait)\]
-
-* **[FAST: Facial Avatar Animation via Spatial-Temporal Aggregation](#)**
-	* Gangyi Hong, Ming Lu, **Senmao Tian**, Xiangyi Chen, Hui Zhang
-	* IEEE International Conference on Multimedia & Expo (**ICME**), 2025
-	* \[[Paper](https://www.computer.org/csdl/proceedings-article/icme/2025/11209474/2beBDW0BbkA)\]
-
-* **[Adaptive Quantization With Mixed-precision Based on Low-cost Proxy](#)**
-	* Junzhe Chen, Qiao Yang, **Senmao Tian**, Shunli Zhang
-	* IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2024
-	* \[[Paper](https://arxiv.org/abs/2402.17706)\]
-
-* **[A Comprehensive Comparison of Projections in Omnidirectional Super-Resolution](#)**
-	* Huicheng Pi, **Senmao Tian**, Ming Lu, Jiaming Liu, Yandong Guo, Shunli Zhang
-	* IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2023
-	* \[[Paper](https://arxiv.org/abs/2304.06497)\]  \[[Code](#)\]
-
-* **[HQRetouch: Learning Professional Face Retouching via Masked Feature Fusion and Semantic-Aware Modulation](#)**
-	* Gangyi Hong, Fangshi Wang, **Senmao Tian**, Ming Lu, Jiaming Liu, Shunli Zhang
-	*  IEEE International Conference on Image Processing (**ICIP**), 2023
-	* \[[Paper](https://ieeexplore.ieee.org/document/10222306)\]
-
-* **[Blind Image Deblurring Based on Dual Attention Network and 2D Blur Kernel Estimation](#)**
-	* **Senmao Tian**, Shunli Zhang, Beibei Lin
-	* IEEE International Conference on Image Processing  (**ICIP**), 2021
-	* \[[Paper](https://ieeexplore.ieee.org/document/9506342)\]  \[[Code](https://github.com/Sheldon04/DADIP-pytorch)\]
-
 
 Others
 ======
